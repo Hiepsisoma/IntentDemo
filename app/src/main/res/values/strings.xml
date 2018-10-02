@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IntentDemo</string>
+    <string name="sp_1">1:1</string>
+    <string name="notifi">Images Empty</string>
 </resources>
